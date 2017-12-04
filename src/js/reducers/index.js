@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux';
-import addresses from './zzz';
+import zzz from './zzz';
 
 const reducers = combineReducers({
     zzz
